@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_first_app">Android Application</string>
+    <string name="insert_the_name">Insert the name:</string>
+    <string name="choose_the_date">Choose the date:</string>
+    <string name="name">Name</string>
+    <string name="button" />
+    <string name="details">Details:</string>
+    <string name="save">Save</string>
+    <string name="list_events">List events</string>
+    <string name="positive">Ok</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="textview">TextView</string>
+    <string name="back">Back</string>
+</resources>
